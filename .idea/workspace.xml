@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcfa8510-4a4f-4b9b-8c13-96bafb83d8c4" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/.coderabbit.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/.coderabbit.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724820056829</updated>
-      <workItem from="1724820057935" duration="2616000" />
+      <workItem from="1724820057935" duration="2907000" />
     </task>
     <servers />
   </component>
